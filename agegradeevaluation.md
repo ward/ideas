@@ -8,6 +8,8 @@ Think about:
 
 Compare this to distribution of runners in a race?
 
+Also see [race-database-and-plots.md](race-database-and-plots.md)
+
 --
 
 Some quick R (times for the 20k)
