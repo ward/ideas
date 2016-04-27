@@ -10,6 +10,13 @@ Compare this to distribution of runners in a race?
 
 Also see [race-database-and-plots.md](race-database-and-plots.md)
 
+Also [this reddit
+post](https://www.reddit.com/r/AdvancedRunning/comments/4goor5/a_different_take_on_age_grading/)
+and more specifically, its sources.
+
+* [nyt](http://www.nytimes.com/2016/04/27/sports/aging-runners-find-help-for-a-question-how-slow-will-i-get.html?emc=eta1&_r=0)
+* [actual site](https://fairmodel.econ.yale.edu/aging/index.htm)
+
 --
 
 Some quick R (times for the 20k)
