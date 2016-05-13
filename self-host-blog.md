@@ -18,3 +18,4 @@ Blogger notes:
 * + Easy stats (could be handled by log analysers maybe)
 * + Built in ads make for no need to think about that (but that only gave like
   30 euro since january 2012... not worth it)
+* - Blogger is a javascript monstrosity
